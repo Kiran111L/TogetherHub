@@ -197,21 +197,6 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3000
 
 10. Install Project Dependencies using `npm install --legacy-peer-deps` or `yarn install --legacy-peer-deps`.
 
-11. Now app is fully configured 👍 and you can start using this app using either one of `npm run dev` or `yarn dev`.
+11. Now app is fully configured and you can start using this app using either one of `npm run dev` or `yarn dev`.
 
 **NOTE:** Please make sure to keep your API keys and configuration values secure and do not expose them publicly.
-
-
-## :star2: Star History
-
-<a href="https://star-history.com/#sanidhyy/zoom-clone&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/zoom-clone&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/zoom-clone&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/zoom-clone&type=Timeline" />
-</picture>
-</a>
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> 8e23397 (Rebrand to TogetherHub)
