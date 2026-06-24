@@ -1,42 +1,54 @@
 <a name="readme-top"></a>
 
-# Yoom - Modern Next.js powered Video calling app
+# TogetherHub - Modern Video Collaboration Platform
 
-![Yoom - Modern Next.js powered Video calling app](/.github/images/img_main.png "Yoom - Modern Next.js powered Video calling app")
+A modern video collaboration platform built with Next.js 15, React 19, Clerk Authentication, and Stream Video SDK. TogetherHub enables users to securely create, schedule, join, and manage online meetings with an intuitive and responsive interface.
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/issues "GitHub issues")
-[![GitHub pull reUpcoming Meetings](https://flat.badgen.net/github/prs/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/pulls "GitHub pull reUpcoming Meetings")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2076d95e-3495-4baf-854d-f59283f80b27/deploy-status)](https://clone-yoom.netlify.app/ "Netlify Status")
+## 🌐 Live Demo
 
-<!-- Table of Contents -->
-<details>
+https://zoom-clone-main-av2m.vercel.app/
 
-<summary>
+## 📂 Repository
 
-# :notebook_with_decorative_cover: Table of Contents
+https://github.com/Kiran111L/Zoom-clone-Main
 
-</summary>
+---
 
-- [Folder Structure](#bangbang-folder-structure)
-- [Getting Started](#toolbox-getting-started)
-- [Screenshots](#camera-screenshots)
-- [Tech Stack](#gear-tech-stack)
-- [Stats](#wrench-stats)
-- [Contribute](#raised_hands-contribute)
-- [Acknowledgements](#gem-acknowledgements)
-- [Buy Me a Coffee](#coffee-buy-me-a-coffee)
-- [Follow Me](#rocket-follow-me)
-- [Learn More](#books-learn-more)
-- [Deploy on Netlify](#page_with_curl-deploy-on-netlify)
-- [Give A Star](#star-give-a-star)
-- [Star History](#star2-star-history)
-- [Give A Star](#star-give-a-star)
+## ✨ Features
 
+- Secure Authentication using Clerk
+- Instant Video Meetings
+- Schedule Future Meetings
+- Personal Meeting Room
+- Meeting History
+- Meeting Recordings
+- Responsive UI
+- Google Sign-In
+- Stream Video SDK Integration
+- Modern Next.js App Router Architecture
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js 15
+- React 19
+- TypeScript
+- Tailwind CSS
+- Clerk Authentication
+- Stream Video SDK
+- Radix UI
+- Vercel
+
+---
+
+## 🚀 Live Website
+
+https://zoom-clone-main-av2m.vercel.app/
+
+---
+
+## 📁 Folder Structure
 </details>
 
 ## :bangbang: Folder Structure
